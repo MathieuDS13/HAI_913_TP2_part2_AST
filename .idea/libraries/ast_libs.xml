@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ast libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ast libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/ast libs" recursive="false" />
+  </library>
+</component>
